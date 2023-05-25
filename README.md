@@ -16,7 +16,7 @@ To develop a single sided PCB board for a single digit token number display syst
 
 ## SCHEMATIC
 
-![schematic](https://user-images.githubusercontent.com/65499285/233920066-455187c2-bbb1-4635-8f8a-0b0bba4c39aa.png)
+![Chethan](https://user-images.githubusercontent.com/75234991/235116376-579f49a9-8f33-4a4c-a862-ac75abb1c086.png)
 
 ## CODE
 ```python3
@@ -131,8 +131,8 @@ int main(void)
 }
 ```
 ## PCB LAYOUT
+![Screenshot 2023-04-24 110838](https://github.com/Y-CHETHAN/TokenNumberDisplaySystem/assets/75234991/99759304-5d8e-499d-b4d1-d1fdcf710013)
 
-![Chethan](https://user-images.githubusercontent.com/75234991/235116376-579f49a9-8f33-4a4c-a862-ac75abb1c086.png)
 
 ## TOP LAYER
 
