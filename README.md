@@ -18,7 +18,6 @@ To develop a single sided PCB board for a single digit token number display syst
 
 ![schematic](https://user-images.githubusercontent.com/65499285/233920066-455187c2-bbb1-4635-8f8a-0b0bba4c39aa.png)
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## CODE
 ```python3
 void display(int n)
@@ -146,8 +145,6 @@ int main(void)
 ## 3D VIEW
 
 ![image](https://user-images.githubusercontent.com/65499285/235099324-ffc8dd62-0957-4f60-9a1b-3a9a9e795e19.png)
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## RESULT
 Thus, the simulation of token number display with buzzer is executed successfully.
